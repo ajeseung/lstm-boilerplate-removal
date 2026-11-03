@@ -4,7 +4,7 @@
 
 - **기간:** 2023.02–2023.10
 - **구분:** 한양대학교 컴퓨터소프트웨어학부 졸업 팀 프로젝트
-- **개인 담당:** HTML 데이터 수집·전처리, 모델 변환·연동, Android 앱 개발
+- **개인 담당:** HTML 데이터 수집·전처리, 모델 연동된 Android 앱 개발
 - **사용 기술:** Python, BeautifulSoup, LSTM, TensorFlow, PyTorch, Java, Android Studio
 
 ## 1. 프로젝트 개요
